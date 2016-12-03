@@ -68,3 +68,5 @@ sixNumEditText.setOnCompleteInputListener(new SixNumEditText.OnCompleteInputList
         }
 });
 ```
+
+And it always be accompanied with a [NumberKeyBoard](https://github.com/zhouchupen/NumberKeyboard).
